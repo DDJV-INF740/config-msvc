@@ -2,7 +2,7 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros">
-    <PROJ_ROOT>C:\Users\petit\Documents\Managers-build</PROJ_ROOT>
+    <PROJ_ROOT>C:\Users\petit\Documents\Defenders-build</PROJ_ROOT>
   </PropertyGroup>
   <PropertyGroup />
   <ItemDefinitionGroup />
